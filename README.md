@@ -1,0 +1,1 @@
+# understanding redux creating a static web page
